@@ -3,8 +3,8 @@ package git_work01;
 public class MyClass {
 
 	public static void main(String[] args) {
-	System.out.println("Eclipse den gite çalýþma 01");
-
+	System.out.println("Eclipse den gite Ã§alÃ½Ã¾ma 01");
+	Sysytem.out.println("GitHub dan Eclipse );
 	}
 
 }
